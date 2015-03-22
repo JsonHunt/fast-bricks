@@ -1,15 +1,15 @@
 {
-  "name": "fast-bricks",
-  "version": "1.0.0",
-  "description": "Glues sql-bricks and mysql with parameters",
-  "main": "gen/fast-bricks.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "JsonHunt",
-  "license": "ISC",
-  "dependencies": {
-    "cson": "^3.0.1",
-    "mysql": "^2.5.5"
-  }
+	"name": "fast-bricks",
+	"version": "1.0.1",
+	"description": "Glues sql-bricks and mysql with parameters",
+	"main": "gen/fast-bricks.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "JsonHunt",
+	"license": "ISC",
+	"dependencies": {
+		"cson": "^3.0.1",
+		"mysql": "^2.5.5"
+	}
 }
