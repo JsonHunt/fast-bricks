@@ -1,0 +1,6 @@
+connectionLimit : 10
+server     : 'RITFSLAB01T1'
+user     : 'prg_Ares'
+password : 'tr2003BS'
+database : 'Artesia'
+driver_type   : 'sqlserver'

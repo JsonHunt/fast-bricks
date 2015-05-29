@@ -1,0 +1,6 @@
+connectionLimit : 10
+host     : 'localhost'
+user     : 'root'
+password : 'garsonka'
+database : 'webapp'
+driver   : 'mysql'

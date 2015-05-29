@@ -1,7 +1,7 @@
 {
 	"name": "fast-bricks",
-	"version": "1.0.1",
-	"description": "Glues sql-bricks and mysql with parameters",
+	"version": "1.0.3",
+	"description": "Glues together sql-bricks, sqlserver and mysql",
 	"main": "gen/fast-bricks.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,11 @@
 	"license": "ISC",
 	"dependencies": {
 		"cson": "^3.0.1",
-		"mysql": "^2.5.5"
+		"mssql": "^2.1.1",
+		"mysql": "^2.6.1",
+		"tedious": "^1.11.0"
+	},
+	"devDependencies": {
+		"sql-bricks": "^1.1.1"
 	}
 }
